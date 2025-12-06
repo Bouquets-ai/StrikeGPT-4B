@@ -1,2 +1,1 @@
-# StrikeGPT-4B
-StrikeGPT-4B
+![img3.gif](img3.gif)
